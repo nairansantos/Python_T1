@@ -11,7 +11,7 @@ Neste espaço dedicado ao Python, mergulhamos em desafios, projetos e descoberta
 
 * Arthur
 
-* Luis Eduardo Barbosa Soares Rocha [Github](https://github.com/eduardsroch). E-mail: nixeo.dev@gmail.com
+* Luis Eduardo Barbosa Soares Rocha [Github](https://github.com/eduardsroch) E-mail: nixeo.dev@gmail.com
 
 * Nairan
 
